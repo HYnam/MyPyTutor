@@ -1,5 +1,5 @@
 """
-Using Classes
+            Using Classes
 This problem relates to the pre-loaded class Person.
 
 Using the Person class, write a function print_friend_info(person) which accepts a single argument, of type Person, and:
